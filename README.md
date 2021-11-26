@@ -1,1 +1,1 @@
-# sumadorIP_FPGA
+# ejercicios_SyM
