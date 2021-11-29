@@ -1,0 +1,9 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ipshared/f517/hdl/cont_ip_v1_0_S_AXI.vhd" \
+"../../../bd/system/ipshared/f517/hdl/cont_ip_v1_0.vhd" \
+"../../../bd/system/ipshared/f517/src/cont_user_logic.vhd" \
+"../../../bd/system/ip/system_cont_ip_0_0/sim/system_cont_ip_0_0.vhd" \
+"../../../bd/system/ip/system_rst_ps7_0_100M_0/sim/system_rst_ps7_0_100M_0.vhd" \
+"../../../bd/system/sim/system.vhd" \
+
+nosort
