@@ -29,8 +29,8 @@ begin
          elsif char_i = "00000000000000000000000000101101" then  -- signo (-)
              count <= count - 1;
              
-         --else
-             --count <= count + 2;           
+         else
+             count <= count + 2;           
          end if;
        end if;	   
 	

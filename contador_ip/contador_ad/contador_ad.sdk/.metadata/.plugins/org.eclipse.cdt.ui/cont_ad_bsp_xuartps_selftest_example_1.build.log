@@ -1,0 +1,8 @@
+21:17:03 **** Auto Build of configuration Debug for project cont_ad_bsp_xuartps_selftest_example_1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: No se hace nada para 'main-build'.
+
+21:17:04 Build Finished (took 741ms)
+
